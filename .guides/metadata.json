@@ -1,0 +1,172 @@
+{
+ "sections": [
+  {
+   "id": "ddc06e13-352d-e4d3-1e62-15ce4195fbd",
+   "title": "Intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-ddc0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "41c21fc-11de-7938-7a7-86cb9aea340",
+   "title": "RIIS Core Values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RIIS-Core-Values-41c2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a7563c92-727-4c28-940f-bae34ada4c00",
+   "title": "Live the Values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Live-the-Values-a756.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "859e315e-8606-9977-7f99-5d7f71c33658",
+   "title": "Represent Brand",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Represent-Brand-859e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6e3725db-479b-35a7-8a84-f985f405a73f",
+   "title": "Soft Skills - Overview",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Soft-Skills---Overview-6e37.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2aa61df7-6cdf-bc62-8f71-726c491c504",
+   "title": "Soft Skills: Conflict Resolution",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Soft-Skills--Conflict-Resolution-2aa6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d34228de-645e-1666-5cab-4174b1045c23",
+   "title": "Soft Skills: Communication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Soft-Skills--Communication-d342.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "41c3891b-d396-846e-fbc6-1dd4cda1d4b8",
+   "title": "Soft Skills: Teamwork and Collaboration",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Soft-Skills--Teamwork-and-Collaboration-41c3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "73349e3f-40e9-74c6-d678-fb3d319324f0",
+   "title": "Soft Skills: Problem Solving",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Soft-Skills--Problem-Solving-7334.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2ec24ee8-c45c-d56b-85b0-a20f1891237f",
+   "title": "Client Culture: What is it and how to figure it out",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Client-Culture--What-is-it-and-how-to-figure-it-out-2ec2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6c61f25-a40a-8bfe-17a-bf959bb991f6",
+   "title": "Client Culture: We are still consultants",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Client-Culture--We-are-still-consultants-6c61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b362fc53-e949-4127-280c-8ca815d4a37",
+   "title": "Client Culture: Soft and Technical Skills",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Client-Culture--Soft-and-Technical-Skills-b362.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "60bc7e79-559d-e5f5-d975-45ad9916b62c",
+   "title": "Client Culture: What to do when...",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Client-Culture--What-to-do-when----60bc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9cfb260d-9939-cbdd-bd34-e5f8acb76a44",
+   "title": "Test",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-9cfb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "15cfb23-87a1-e9f-3eb-15d215884198",
+   "title": "Core Values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Core-Values-15cf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

@@ -1,0 +1,31 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4134410452",
+  "source": {
+   "name": "Core Values",
+   "showName": true,
+   "instructions": "What is the Acronym for the core values",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Downbeat",
+     "correct": false,
+     "_id": "f5d2bb-9668-1f48-9d5c-cc6dc470c195"
+    },
+    {
+     "answer": "Backbeat",
+     "correct": false,
+     "_id": "fa5d0b-4210-a51a-7520-953213a6770"
+    },
+    {
+     "correct": true,
+     "answer": "Upbeat",
+     "_id": "8154a25f-de20-8558-d973-a23d1c7e5893"
+    }
+   ]
+  }
+ }
+]
